@@ -1,4 +1,5 @@
 # ShopPrototype
+备注：该原型是在Axure RP Pro 7.0下制作的
 
 1 首页
 
